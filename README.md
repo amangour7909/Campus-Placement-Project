@@ -7,10 +7,10 @@ Our dataset revolves around the placement season of a Business School in India.
 Where it has various factors on candidates getting hired such as work experience, exam percentage etc., 
 Finally it contains the status of recruitment and remuneration details.
 
-#Resources used
+# Resources used
 You will need the PlacementDataset.csv dataset which can be found in the resources folder.
 
-#File setup
+# File setup
 Instructions for setting up the project:
 
 Download the dataset and open the jupyter notebook.
